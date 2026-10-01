@@ -15,7 +15,7 @@ The analysis uses PivotTables and visualizations to identify sales trends, compa
 
 ## Dashboard Preview
 
-![Sales Performance & Profitability Dashboard](Sales%20Performance%20Profitability%20Dashboard.png)
+![Sales Performance & Profitability Dashboard](Sales%20Performance%20&%20Profitability%20Dashboard.png)
 
 ## Key Findings
 
